@@ -1,4 +1,4 @@
-# 使用方法
+# express 初始化使用方法
 
 ```
 git clone git@github.com:wbs99/express-start.git
